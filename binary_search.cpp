@@ -1,3 +1,8 @@
+// Problem: Binary Search
+// Approach: Standard binary search on sorted array
+// Time Complexity: O(log n)
+
+
 #include <bits/stdc++.h>
 using namespace std;
 

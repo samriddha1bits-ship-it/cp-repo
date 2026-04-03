@@ -1,5 +1,10 @@
 // C++ code of finding Number of ways a convex polygon of n+2 
 // sides can split into triangles by connecting vertices
+
+//Time Complexity: O(n), where n is nth catalan number.
+//Auxiliary Space: O(1)
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
